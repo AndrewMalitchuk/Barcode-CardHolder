@@ -1,4 +1,4 @@
-# ![](C:\Users\Андрей\Desktop\ic_launcher.png)Barcode CardHolder
+# ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/app_icon.png)Barcode CardHolder
 
 Barcode CardHolder is a simple Android application to store your barcode cards (like gym abonnement card, supermarket discount card etc).
 
@@ -18,14 +18,14 @@ You can store next barcode type:
 
 **App demo:**
 
-![](C:\Users\Андрей\Desktop\screenshots\demo.gif)
+![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/demo.gif)
 
 **App screenshots:**
 
-| ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot1.png) | ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot2.png) |
+| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot1.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot2.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot3.png) | ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot4.png) |
-| ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot5.png) | ![](C:\Users\Андрей\Desktop\screenshots\Nexus 6P-Screenshot6.png) |
+| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot3.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot4.png) |
+| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot5.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot6.png) |
 
 This application was created to improve programing skills and personal needs.
 
@@ -45,7 +45,7 @@ This application was created to improve programing skills and personal needs.
 
 **Option 2:**
 
-* Download [apk file](http://www.google.com).
+* Download [apk file](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/Barcode%20CardHolder.apk).
 
 ## Documentation ##
 
@@ -80,5 +80,5 @@ Barcode CardHolder is under the [Apache License, version 2.0 ](https://github.co
 	See the License for the specific language governing permissions and
 	limitations under the License.
 
-Used [libraries]().
+Used [libraries](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/NOTICE.txt).
 
