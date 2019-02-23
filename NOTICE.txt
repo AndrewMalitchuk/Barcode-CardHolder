@@ -1,0 +1,32 @@
+MaterialTextField (https://github.com/florent37/MaterialTextField)
+Copyright 2015 florent37, Inc.
+
+Material Tap Target Prompt (https://github.com/sjwall/MaterialTapTargetPrompt)
+Copyright (C) 2016-2018 Samuel Wall
+
+AppIntro (https://github.com/AppIntro/AppIntro)
+Copyright (C) AppIntro
+
+ViewTooltip (https://github.com/florent37/ViewTooltip)
+Copyright 2017 Florent37, Inc.
+
+Code scanner (https://github.com/yuriy-budiyev/code-scanner)
+Copyright (c) 2017 Yuriy Budiyev [yuriy.budiyev@yandex.ru]
+
+ZXing Android Embedded (https://github.com/journeyapps/zxing-android-embedded)
+Copyright (C) 2012-2018 ZXing authors, Journey Mobile
+
+ColorPicker  (https://github.com/kristiyanP/colorpicker)
+Copyright (c) 2016 Petrov Kristiyan
+
+MaterialAbout (https://github.com/jrvansuita/MaterialAbout)
+Copyright (c) 2016 Arleu Cezar Vansuita Júnior
+
+ChocoBar (https://github.com/Pradyuman7/ChocoBar)
+Copyright (c) 2018 Pradyuman Dixit
+
+Licenser (https://github.com/marcoscgdev/Licenser)
+Copyright (c) 2018 Marcos Calvo García
+
+NoNet (https://github.com/keiferstone/nonet)
+Copyright 2017 Keifer Stone

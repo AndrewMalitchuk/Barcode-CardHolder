@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.app.cardholder"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    //MaterialTextField [https://github.com/florent37/MaterialTextField]
+    implementation 'com.github.florent37:materialtextfield:1.0.7'
+    //Material Tap Target Prompt [https://github.com/sjwall/MaterialTapTargetPrompt]
+    implementation 'uk.co.samuelwall:material-tap-target-prompt:2.14.0'
+    //AppIntro [https://github.com/AppIntro/AppIntro]
+    implementation 'com.github.AppIntro:AppIntro:v4.2.3'
+    //CardView
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+    //ViewTooltip [https://github.com/florent37/ViewTooltip]
+    implementation 'com.github.florent37:viewtooltip:1.0.4'
+    //Code scanner library for Android, based on ZXing [https://github.com/yuriy-budiyev/code-scanner]
+    implementation 'com.budiyev.android:code-scanner:2.1.0'
+    //ZXing Android Embedded [https://github.com/journeyapps/zxing-android-embedded]
+    implementation 'com.journeyapps:zxing-android-embedded:3.2.0@aar'
+    //ColorPicker [https://mindorks.com/android/store/Color-Pickers/kristiyanp/colorpicker]
+    implementation 'petrov.kristiyan:colorpicker-library:1.1.8'
+    //Firebase Core
+    implementation 'com.google.firebase:firebase-core:16.0.1'
+    //Firebase Auth
+    implementation 'com.google.firebase:firebase-auth:16.0.1'
+    //Firebase Realbase
+    implementation 'com.google.firebase:firebase-database:16.0.1'
+    //Material About [https://github.com/jrvansuita/MaterialAbout]
+    implementation 'com.github.jrvansuita:MaterialAbout:0.2.3'
+    //ChocoBar [https://android-arsenal.com/details/1/7415]
+    implementation 'com.github.Pradyuman7:ChocoBar:V1.0'
+    //Licenser  [https://github.com/marcoscgdev/Licenser]
+    implementation 'com.github.marcoscgdev:Licenser:1.0.5'
+    //NoNet [https://github.com/keiferstone/nonet]
+    implementation 'com.keiferstone:nonet:2.0.4'
+}
+
+apply plugin: 'com.google.gms.google-services'

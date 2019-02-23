@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fullscreenConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FullscreenCardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:orientation="horizontal"
+            tools:layout_editor_absoluteY="411dp">
+
+            <TextView
+                android:id="@+id/cardNameEditText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:text="@string/app_name"
+                android:textColor="@color/textColor"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/escapeFullscreenImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/escapeFullscreenImageViewDescription"
+                android:onClick="onEscapeFullscreenImageView"
+                app:srcCompat="@drawable/ic_fullscreen_exit_black_24dp" />
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cv"
+                android:layout_width="450dp"
+                android:layout_height="250dip"
+                android:layout_gravity="center"
+                android:layout_margin="10dip">
+
+                <ImageView
+                    android:id="@+id/barCodeImageView"
+                    android:layout_width="450dp"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/barCodeImageViewDescription"
+                    android:foregroundGravity="center"
+                    android:hapticFeedbackEnabled="false"
+                    app:srcCompat="@mipmap/ic_launcher_round" />
+
+            </android.support.v7.widget.CardView>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

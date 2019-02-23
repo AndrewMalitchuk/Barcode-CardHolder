@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Barcode CardHolder</string>
+    <string name="loginButtonText">Login</string>
+    <string name="signUpButtonText">Sign up</string>
+    <string name="signUpTextViewText"><u>Don\'t have an account yet?</u></string>
+    <string name="loginTextViewText"><u>Already have an account?</u></string>
+    <string name="loginForgotPasswordTextViewText"><u>Forgot password?</u></string>
+    <string name="passwordTextFieldText">Password</string>
+    <string name="emailTextFieldText">Email</string>
+    <string name="nameTextFieldText">Name</string>
+    <string name="loginImageDescription">Login image</string>
+    <string name="signUpImageDescription">Sign up image</string>
+    <string name="signUpActivityTextViewText">Sign up</string>
+    <string name="fullscreenImageDescription">Fullscreen</string>
+    <string name="cardListLabel">Cards list</string>
+
+    <string name="searchEditText">Search</string>
+    <string name="aboutDialogWindowTitle">About program</string>
+    <string name="aboutDialogWindowContent">About\nProgram\nContent</string>
+
+    <string name="emailTextFieldValidationError">It\'s not look like an email address</string>
+    <string name="passwordTextFieldValidationError">Field must contains at least six symbols</string>
+    <string name="loadingMessage">Loading... Please wait\nTo infinity and beyond</string>
+
+    <string name="colorEditText">Card color</string>
+    <string name="nameEditText">Card name</string>
+    <string name="placeEditText">Place</string>
+    <string name="barCodeEditText">Barcode</string>
+    <string name="barCodeTypeEditText">Barcode type</string>
+    <string name="dialogConfirmButton">Add</string>
+    <string name="dialogImageViewDescription">Dialog image</string>
+    <string name="colorPickerImageButtonDescription">Color picker</string>
+    <string name="barCodeImageButtonDescription">Bar code scanner</string>
+    <string name="addNewCardDialogTitle">Add new card</string>
+    <string name="dialogCheckFieldsError">Check your fields</string>
+
+    <string name="escapeFullscreenImageViewDescription">Escape</string>
+    <string name="barCodeImageViewDescription">Barcode</string>
+
+    <string name="loginForgotPasswordDialogWindowTitle">Email has been sent successfully</string>
+    <string name="loginForgotPasswordDialogWindowContent">Please, check your inbox</string>
+
+    <string name="aboutActivityToolbarText">About</string>
+    <string name="githubProfileURLTextViewText"><u>GitHub Profile</u></string>
+    <string name="githubProjectURLTextViewText"><u>GitHub Project Repository</u></string>
+
+    <string name="devName">Andrew Malitchuk</string>
+    <string name="githubLink">AndrewMalitchuk</string>
+    <string name="subTitle">Android Enthusiast</string>
+    <string name="licenseTitle">License</string>
+    <string name="licenseNotice">License text for:</string>
+    <string name="githubRepoLink">https://www.github.com/AndrewMalitchuk</string>
+
+    <string name="emptyCardWarning">Your card list is empty! Add new card.</string>
+    <string name="reloadWarning">Content reloaded</string>
+    <string name="existWarning">This card is already added</string>
+    <string name="cardAddWarning">Card added</string>
+    <string name="emailVerification">Email verification</string>
+    <string name="emailVerificationContent">Please, confirm your email</string>
+    <string name="sendAgain">Send again</string>
+
+    <string name="logoutTitle">Logout</string>
+    <string name="logoutContent">Are you sure you want to logout?</string>
+    <string name="addNewCardTitle">Add new card</string>
+    <string name="addNewCardContent">Press this button to adc new card.</string>
+
+    <string name="alert">Alert</string>
+    <string name="cameraPermission">App needs to access the Camera.</string>
+    <string name="storagePermission">App needs to access the External Storage.</string>
+
+    <string name="sliderPageTitle1">What is Barcode Cardholder App?</string>
+    <string name="sliderPageDescription1">Barcode CardHolder is a simple app to save your shopping discount card with barcode. Scan barcode, save it and use it anywhere you go. Also, you can add and save all 1D/2D barcodes and even QR codes.</string>
+
+    <string name="sliderPageTitle2">Take your barcode card</string>
+    <string name="sliderPageDescription2">It may be personal discount barcode card etc.</string>
+
+    <string name="sliderPageTitle3">Create new virtual card via app</string>
+    <string name="sliderPageDescription3">Just add description, choose color and scan barcode via camera.</string>
+
+    <string name="sliderPageTitle4">Scan virtual card via barcode scanner</string>
+    <string name="sliderPageDescription4">Just show your scanned barcode card.</string>
+
+    <string name="emailValidation">It\'s not look like an email address</string>
+    <string name="passwordValidation">Field must contains at least six symbols</string>
+    <string name="login">Login</string>
+    <string name="loginTapTarget">Input your account info to launch application.</string>
+    <string name="emailField">Email field</string>
+    <string name="emailTapTarget">First, input your email.</string>
+    <string name="passwordField">Password field</string>
+    <string name="passwordTapTarget">Second, input your password.</string>
+    <string name="loginButton">Login button</string>
+    <string name="loginButtonTapTarget">Third, click login button.</string>
+
+    <string name="success">Success</string>
+    <string name="emailConfirm">Please, confirm your email in your inbox</string>
+    <string name="welcome">"Success! Welcome "</string>
+    <string name="signup">Sign up</string>
+    <string name="signUpContent">Input your email and password to create new account.</string>
+    <string name="signUpButton">Sign up button</string>
+    <string name="signUpButtonContent">Third, click sign up button to create an account.</string>
+
+    <string name="MaterialTextField">MaterialTextField</string>
+    <string name="MaterialTextFieldLink">https://github.com/florent37/MaterialTextField</string>
+    <string name="MaterialTapTargetPrompt">Material Tap Target Prompt</string>
+    <string name="MaterialTapTargetPromptLink">https://github.com/sjwall/MaterialTapTargetPrompt</string>
+    <string name="AppIntro">AppIntro</string>
+    <string name="AppIntroLink">https://github.com/AppIntro/AppIntro</string>
+    <string name="ViewTooltip">ViewTooltip</string>
+    <string name="ViewTooltipLink">https://github.com/florent37/ViewTooltip</string>
+    <string name="CodeScanner">Code Scanner</string>
+    <string name="CodeScannerLink">https://github.com/yuriy-budiyev/code-scanner</string>
+    <string name="ZXingAndroidEmbedded">ZXing Android Embedded</string>
+    <string name="ZXingAndroidEmbeddedLink">https://github.com/journeyapps/zxing-android-embedded</string>
+    <string name="ColorPicker">ColorPicker</string>
+    <string name="ColorPickerLink">https://github.com/kristiyanP/colorpicker</string>
+    <string name="MaterialAbout">MaterialAbout</string>
+    <string name="MaterialAboutLink"></string>
+    <string name="ChocoBar">ChocoBar</string>
+    <string name="ChocoBarLink">https://github.com/Pradyuman7/ChocoBar</string>
+    <string name="Licenser">Licenser</string>
+    <string name="LicenserLink">https://github.com/marcoscgdev/Licenser</string>
+    <string name="NoNet">NoNet</string>
+    <string name="NoNetLink">https://github.com/keiferstone/nonet</string>
+
+
+
+
+</resources>

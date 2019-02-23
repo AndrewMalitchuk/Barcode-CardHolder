@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837126280648",
+    "firebase_url": "https://barcodecardholder-app.firebaseio.com",
+    "project_id": "barcodecardholder-app",
+    "storage_bucket": "barcodecardholder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837126280648:android:b259e4c71d47a605",
+        "android_client_info": {
+          "package_name": "com.app.cardholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837126280648-cd7ou20hf220lv9prhsl6njn1q2neoo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDngbj4Y44Sv8joCW8NzIPTvkJGRbC9-zk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

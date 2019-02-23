@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="colorPickerArray">
+
+        <item>#e040fb</item>
+        <item>#7c4dff</item>
+        <item>#304ffe</item>
+        <item>#2196f3</item>
+        <item>#0091ea</item>
+        <item>#18ffff</item>
+        <item>#00bfa5</item>
+        <item>#00e676</item>
+        <item>#8bc34a</item>
+        <item>#eeff41</item>
+        <item>#ffff00</item>
+        <item>#ffb300</item>
+        <item>#ffab00</item>
+        <item>#ffa726</item>
+        <item>#e64a19</item>
+        <item>#90a4ae</item>
+        <item>#b3e5fc</item>
+        <item>#ff1744</item>
+        <item>#607d8b</item>
+
+    </array>
+
+</resources>
