@@ -1,4 +1,4 @@
-# ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/app_icon.png)Barcode CardHolder
+# Barcode CardHolder
 
 Barcode CardHolder is a simple Android application to store your barcode cards (like gym abonnement card, supermarket discount card etc).
 
