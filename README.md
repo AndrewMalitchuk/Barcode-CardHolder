@@ -49,7 +49,7 @@ This application was created to improve programing skills and personal needs.
 
 ## Documentation ##
 
-If necessary, you can take a look at [JavaDoc]()
+If necessary, you can take a look at [JavaDoc](https://andrewmalitchuk.github.io/Barcode-CardHolder/)
 
 ## System requirment
 
