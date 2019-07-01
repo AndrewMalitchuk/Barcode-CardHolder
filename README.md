@@ -18,14 +18,14 @@ You can store next barcode type:
 
 **App demo:**
 
-![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/demo.gif)
+![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/1.gif)
 
 **App screenshots:**
 
-| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot1.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot2.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/1.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/2.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot3.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot4.png) |
-| ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot5.png) | ![](https://github.com/AndrewMalitchuk/Barcode-CardHolder/blob/master/screenshots/Nexus%206P-Screenshot6.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/3.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/4.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/5.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/6.png) |
 
 This application was created to improve programing skills and personal needs.
 
