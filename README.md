@@ -22,10 +22,10 @@ You can store next barcode type:
 
 **App screenshots:**
 
-| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/1.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/2.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/2.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/3.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/3.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/4.png) |
-| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/5.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/6.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/4.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/5.png) |
+| ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/6.png) | ![](https://github.com/AndrewMalitchuk/barcode-cardholder/blob/master/README/7.png) |
 
 This application was created to improve programing skills and personal needs.
 
